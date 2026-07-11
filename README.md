@@ -7,5 +7,3 @@
 
 🚀 Open to internships and research opportunities
 
-
-
