@@ -6,6 +6,7 @@
 🐍 Learning Python, SQL, Machine Learning, and Git
 
 🚀 Open to internships and research opportunities
+
 <!--
 **dibijachhetri55/dibijachhetri55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 💻 Tech Stack
@@ -30,5 +31,6 @@
 - Machine Learning
 - Quantum Computing
 - Data Visualization
+
 
 
